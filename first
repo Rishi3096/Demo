@@ -3,8 +3,7 @@ int main()
 {
     double number;
 
-    printf("Enter a number: ");
-    scanf("%lf", &number);
+    number=54;
 
     if (number <= 0.0)
     {
